@@ -111,5 +111,3 @@ service-worker: true
 #         href: "https://developer.apple.com/"
 #     }
 # ]
-
-theme: jekyll-theme-merlot
