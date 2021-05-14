@@ -5,13 +5,13 @@ header-img: img/post-bg-desk.jpg
 email: 2164064215@qq.com
 description: "记录学习 生活 工作"
 keyword: "Blog, 潘昌华， pch"
-url: "http://panchanghua.github.io"          # 主机网址
+url: "https://panchanghua.github.io"          # 主机网址
 baseurl: "/blog"      # 基础路径
 github_repo: "https://github.com/panchanghua/panchanghua.github.io.git" # 代码仓库地址
 
 # 边栏设置
 sidebar: true                           # 是否使用侧边栏。
-sidebar-about-description: "翻脸不如翻身，生气不如争气。活着不是靠泪水赢得同情，而是靠汗水赢得掌声." # 侧边栏说明
+sidebar-about-description: "不牛逼就是傻逼" # 侧边栏说明
 sidebar-avatar: /img/about-BY-gentle.jpg      # 头像
 
 
