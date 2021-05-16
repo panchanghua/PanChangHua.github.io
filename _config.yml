@@ -12,7 +12,7 @@ github_repo: "https://github.com/panchanghua/panchanghua.github.io.git" # 代码
 # 边栏设置
 sidebar: true                           # 是否使用侧边栏。
 sidebar-about-description: "不牛逼就是傻逼" # 侧边栏说明
-sidebar-avatar: /img/about-BY-gentle.jpg      # 头像
+sidebar-avatar: /img/touxiang.jpg      # 头像
 
 
 # 社交网络设置
